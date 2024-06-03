@@ -1,0 +1,1 @@
+{{ positive_value(ref('dim_listings_cleansed'))}}
